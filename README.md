@@ -50,7 +50,7 @@ This demo includes the below use cases:
   - #### [Demo 6 - Upgrading Kubernetes](https://youtu.be/m7s6ugxoNCc)
     [![Watch the video](https://img.youtube.com/vi/m7s6ugxoNCc/maxresdefault.jpg)](https://youtu.be/m7s6ugxoNCc)
 
-# SUSE Application collection
+# SUSE Application Collection
 - This task is managed by using the SUSE Rancher Prime web UI.
 
   - #### [Demo 7 - SUSE Application Collection](https://youtu.be/xIAXtLWc93E)
