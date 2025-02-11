@@ -1,0 +1,5 @@
+hostname: rancher.192.168.1.50.sslip.io
+replicas: 1
+bootstrapPassword: "carlos-torres"
+systemDefaultRegistry: registry.rancher.com
+useBundledSystemChart: true

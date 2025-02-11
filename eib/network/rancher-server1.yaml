@@ -1,0 +1,14 @@
+---
+interfaces:
+- name: eth0
+  type: ethernet
+  state: up
+  mac-address: 7a:f1:27:ea:bc:cd
+  ipv4:
+    enabled: true
+    dhcp: true
+    auto-dns: true
+    auto-gateway: true
+    auto-routes: true
+  ipv6:
+    enabled: false
