@@ -1,4 +1,4 @@
-# Demo
+# Demo: Edge Image Builder, SUSE Rancher Prime, SUSE Virtualization (AKA Harvester) and SUSE Application Collection
 This demo includes the below use cases:
 - [Using Edge Image Builder to generate a Customized and Ready-To-Boot image](#using-edge-image-builder-to-generate-a-customized-and-ready-to-boot-image)
     - [Demo 1: Creating a Customized, Ready-to-Boot image with Edge Image Builder](#demo-1---creating-a-customized-ready-to-boot-image-with-edge-image-builder)
