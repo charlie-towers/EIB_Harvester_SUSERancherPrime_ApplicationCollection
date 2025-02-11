@@ -1,6 +1,4 @@
 #!/bin/bash
-#export KUBECONFIG="/etc/rancher/rke2/rke2.yaml"
-#echo $KUBECONFIG >> /etc/bash.bashrc
 #cp /var/lib/rancher/rke2/bin/kubectl /usr/local/bin/
 #curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
 #chmod +x get_helm.sh
