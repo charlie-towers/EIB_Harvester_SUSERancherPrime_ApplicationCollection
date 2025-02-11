@@ -11,8 +11,8 @@ This demo includes the below use cases:
     - [Demo 5: Scaling Kubernetes with MachinePools](#demo-5---scaling-kubernetes-with-machinepools)
 - [Upgrading Kubernetes clusters](#upgrading-kubernetes-clusters)
     - [Demo 6: Upgrading Kubernetes](#demo-6---upgrading-kubernetes)
-- [SUSE Application collection](#suse-application-collection)
-    - [Demo 7: SUSE Application collection](#demo-7---suse-application-collection)
+- [SUSE Application Collection](#suse-application-collection)
+    - [Demo 7: SUSE Application Collection](#demo-7---suse-application-collection)
 
 # Using Edge Image Builder to generate a Customized and Ready-To-Boot image
 - The official documentation of SUSE Edge 3.2 for Edge Image Builder that includes SUSE Rancher Prime Server is available [here](https://documentation.suse.com/suse-edge/3.2/html/edge/id-air-gapped-deployments-with-edge-image-builder.html#rancher-install)
