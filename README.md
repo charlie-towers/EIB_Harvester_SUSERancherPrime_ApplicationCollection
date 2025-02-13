@@ -16,6 +16,7 @@ This demo includes the below use cases:
 
 # Using Edge Image Builder to generate a Customized and Ready-To-Boot image
 - The official documentation of SUSE Edge 3.2 for Edge Image Builder that includes SUSE Rancher Prime Server is available [here](https://documentation.suse.com/suse-edge/3.2/html/edge/id-air-gapped-deployments-with-edge-image-builder.html#rancher-install)
+- If you're looking for further customizations like static networking configuration, including repos or enabling specific services, the official repo of Edge Image Builder is available [here](https://github.com/suse-edge/edge-image-builder)
 
 ### Demo videos EIB configuration and testing
   - #### [Demo 1 - Creating a Customized Ready to Boot image with Edge Image Builder](https://youtu.be/zraE14MzZ4Y)
